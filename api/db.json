@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "fghj",
+      "description": "gyhbjnkm",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is short stream",
+      "id": 2
+    },
+    {
+      "title": "stream1",
+      "description": "this is for userid",
+      "userId": "102461741854539023645",
+      "id": 3
+    },
+    {
+      "title": "stream2",
+      "description": "this is for reuse",
+      "userId": "102461741854539023645",
+      "id": 4
+    },
+    {
+      "title": "streammm",
+      "description": "dfgahjskm",
+      "id": 5
+    },
+    {
+      "title": "stream5",
+      "description": "this is stream 5",
+      "userId": "102461741854539023645",
+      "id": 7
+    },
+    {
+      "title": "stream 6",
+      "description": "i am stream 6",
+      "userId": "102461741854539023645",
+      "id": 8
+    }
+  ]
+}
